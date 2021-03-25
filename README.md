@@ -1,4 +1,5 @@
 # Stochastic COVID-19 Simulation on Networks with Individual Variations in Infectiousness
+(Code will be added within the next few days.)
 
 Copyright: 2021, [Gerrit Großmann](https://mosi.uni-saarland.de/people/gerrit/), [Group of Modeling and Simulation](https://mosi.uni-saarland.de/) at [Saarland University](http://www.cs.uni-saarland.de/)
 
